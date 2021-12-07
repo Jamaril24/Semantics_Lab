@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(146, 126, 126);
+}
+header{
+    color: darkseagreen;
+    font-size: 30px;
+    text-align: center;
+}
+footer{
+    color: darkseagreen;
+    font-size: 23px;
+    text-align: auto;
+}
